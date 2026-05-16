@@ -1,5 +1,4 @@
 # Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss
-
 # Propagation and Bending Losses in Plastic Fiber
 
 ## AIM
