@@ -85,9 +85,12 @@ This \(a\) is for **950nm wavelength**.
 
 
 ## Calculation
-<img width="844" height="1517" alt="image" src="https://github.com/user-attachments/assets/3eda51f3-8bd5-46cd-9efc-573c61410ce9" />
+<img width="756" height="726" alt="image" src="https://github.com/user-attachments/assets/6f213ef7-4779-4abd-8105-7486247af5b3" />
+<img width="612" height="764" alt="image" src="https://github.com/user-attachments/assets/87548afe-30a9-4456-ad08-5f5c00a2e747" />
 
-<img width="945" height="1549" alt="image" src="https://github.com/user-attachments/assets/e0a600e8-2259-4c50-a48f-7c0b27254489" />
+<img width="844" height="739" alt="image" src="https://github.com/user-attachments/assets/b91fe488-f735-4f17-9ed0-7a4c8cdaf04c" />
+<img width="785" height="802" alt="image" src="https://github.com/user-attachments/assets/3d7c8a90-fae4-4e22-bd89-bf91ddaf4150" />
+
 
 
 
